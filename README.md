@@ -1,5 +1,7 @@
 
-# CoverBuildings Solution Swift
+# CoverBuildings Solution Swift (Palladium 2020)
+
+https://app.codility.com/programmers/task/cover_buildings/
 
 There are N rectangular buildings standing along the road next to each other. The K-th building is of size H[K] × 1.
 
@@ -9,3 +11,4 @@ For example, to cover buildings of heights 3, 1, 4 we could use a banner of size
 
 
 
+![image](https://user-images.githubusercontent.com/5418396/211378116-bb7fae7b-3ed0-4ca3-8e45-7fea9cd045c1.png)
